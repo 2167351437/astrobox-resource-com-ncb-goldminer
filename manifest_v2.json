@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "com.ncb.goldminer",
+    "restype": "quick_app",
+    "name": "黄金矿工",
+    "description": "《黄金矿工》是一款单指挖矿闯关游戏。钩子左右摆，点按放钩；钩住金块、钻石或炸药后自动收回，限时达标过关。过关商店可买炸弹、强力药水、时间沙漏和幸运护符，目标逐关提高，进度自动保存。首次进入需完成设备激活。",
+    "preview": [
+      "media/1000183331.png",
+      "media/1000183332.png",
+      "media/1000183333.png",
+      "media/1000183334.png",
+      "media/1000183335.png"
+    ],
+    "icon": "media/1000183329.png",
+    "cover": "media/1000183330.png",
+    "author": [
+      {
+        "name": "XiaoBin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电购买链接",
+      "url": "https://afdian.com/item/14bd94ace04611f1b62152540025c377",
+      "icon": "link"
+    },
+    {
+      "title": "QQ交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=QHTD1LQDwIKNxnKrZhx%2Fql1fRzfIQ%2BMVDzccLlUALT3doPuOpRCzBYw%2Fh0xrUGVn&busi_data=eyJncm91cENvZGUiOiIxMTI1MTYxODY1IiwidG9rZW4iOiJEQ2k3L2J3WVlVZUI1VWFhWTUyRVZFT3dIUFk1MHl4VnhrNHhpcktBeHZRMTgxVGZsYWVrWGNIZG16cWFoRXFOIiwidWluIjoiMjE2NzM1MTQzNyJ9&data=rWywW9MMp_10IY_z_oqvS8rlgPwXvVrgkO5gGrADCLvfGR6Kz8AHv5tGoBNAuOi2CRi-U1lsmjM0s8tH9RdI8w&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle"
+    }
+  ],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.4.5",
+      "file_name": "downloads/com.ncb.goldminer.release.1.4.5.rpk",
+      "versionCode": 16
+    },
+    "xmb10": {
+      "version": "1.4.5",
+      "file_name": "downloads/com.ncb.goldminer.release.1.4.5.rpk",
+      "versionCode": 16
+    }
+  },
+  "ext": {}
+}
